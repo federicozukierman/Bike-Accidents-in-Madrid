@@ -22,7 +22,7 @@ Mis principales conclusiones sobre la evolución de los accidentes de tráfico e
  
 ✅ El accidente típico se produce un sábado a las 20.00 horas en el mes de junio con el cielo despejado 
  
-En el siguiente enlace podéis encontrar mi análisis realizado en la herramienta Power BI:
+Te comparto el enlace para ver el análisis completo realizado en Power BI👇🏼
 
 https://lnkd.in/dptCTcMN
 
