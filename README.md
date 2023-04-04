@@ -1,3 +1,35 @@
+#Bicycle accidents in Madrid 
+
+In this post I share with you my latest project as Data Analyst, oriented to analyze traffic accidents in Madrid involving bicycles during the period 2019 to 2022 🚲.
+ 
+I am a cyclist and the idea for this study came up while I was cycling along Paseo de la Castellana and a vehicle crossed my path. Despite always wearing a helmet, I consider that cycling in Madrid has a certain level of risk, as there are no bike lanes on the main roads.
+ 
+The Madrid City Council has just announced that the municipal electric bicycle service bicimad will be free of charge until July 31. The aim is to encourage cycling mobility in the capital. It is expected that the free bicimad service will further increase the number of Madrilenians who opt for bicycles as a means of sustainable mobility.
+ 
+In this project I analyze the evolution of traffic accidents in Madrid in the last four years. I take 2019 as the initial data, since the records of the Madrid City Council from 2010 to 2018 only record accidents with injuries or damage to municipal property.
+ 
+My main conclusions on the evolution of traffic accidents in Madrid involving bicycles are as follows:
+ 
+✅ From 2019 to 2022 there were 3,156 accidents recorded.
+ 
+✅ 2020 is the year with the highest number of accidents, accounting for 829 events. To understand this phenomenon, it should be noted that bicycle use in Madrid increased by 47% after confinement
+ 
+✅ Madrid's Centro district, the smallest in the city, has the highest concentration of accidents, with 13% of the total.
+
+✅ The profile of the accident victim is a man between 25 and 29 years old riding a conventional bicycle (non-electric).
+ 
+✅ The most common type of accident is a fall that, at the level of injury, requires assistance only at the scene of the incident
+ 
+✅ The typical accident occurs on a Saturday at 8 p.m. in the month of June with clear skies. 
+ 
+I share with you the link to see the complete analysis performed on Power BI👇🏼
+
+https://lnkd.in/dptCTcMN
+
+The report was prepared with open data from Madrid City Council (2023).
+
+🌐 Spanish version follows:
+
 #Accidentes de bicicleta en Madrid 
 
 En este post os comparto mi último proyecto como Data Analyst, orientado a analizar los accidentes de tráfico en Madrid con implicación de bicicletas durante el período 2019 a 2022 🚲
@@ -28,4 +60,4 @@ https://lnkd.in/dptCTcMN
 
 El informe fue elaborado con datos abiertos del Ayuntamiento de Madrid (2023).
  
-Espero que os guste
+
