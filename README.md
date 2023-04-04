@@ -10,17 +10,17 @@ In this project I analyze the evolution of traffic accidents in Madrid in the la
  
 My main conclusions on the evolution of traffic accidents in Madrid involving bicycles are as follows:
  
-✅ From 2019 to 2022 there were 3,156 accidents recorded.
+✅ From 2019 to 2022 there were 3,156 accidents recorded
  
 ✅ 2020 is the year with the highest number of accidents, accounting for 829 events. To understand this phenomenon, it should be noted that bicycle use in Madrid increased by 47% after confinement
  
-✅ Madrid's Centro district, the smallest in the city, has the highest concentration of accidents, with 13% of the total.
+✅ Madrid's Centro district, the smallest in the city, has the highest concentration of accidents, with 13% of the total
 
-✅ The profile of the accident victim is a man between 25 and 29 years old riding a conventional bicycle (non-electric).
+✅ The profile of the accident victim is a man between 25 and 29 years old riding a conventional bicycle (non-electric)
  
 ✅ The most common type of accident is a fall that, at the level of injury, requires assistance only at the scene of the incident
  
-✅ The typical accident occurs on a Saturday at 8 p.m. in the month of June with clear skies. 
+✅ The typical accident occurs on a Saturday at 8 p.m. in the month of June with clear skies 
  
 I share with you the link to see the complete analysis performed on Power BI👇🏼
 
