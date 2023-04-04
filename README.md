@@ -1,4 +1,4 @@
-Bicycle accidents in Madrid 
+# Road trafic accidents involving bicycles
 
 In this post I share with you my latest project as Data Analyst, oriented to analyze traffic accidents in Madrid involving bicycles during the period 2019 to 2022 🚲.
  
@@ -30,7 +30,7 @@ The report was prepared with open data from Madrid City Council (2023).
 
 🌐 Spanish version follows:
 
-Accidentes de bicicleta en Madrid 
+# Accidentes de tráfico con implicación de bicicletas
 
 En este post os comparto mi último proyecto como Data Analyst, orientado a analizar los accidentes de tráfico en Madrid con implicación de bicicletas durante el período 2019 a 2022 🚲
  
